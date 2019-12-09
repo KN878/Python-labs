@@ -1,0 +1,3 @@
+L = n1*log(n1) + n2*log(n2) - by this formula one can determine the length of the whole vocabulary in bits, since log(n1)
+represents number of bits required to encode a word from n1. Then n1*log(n1) are number bits required to store them all in
+memory. The same is with n2*log(n2). Then their sum will be number of bits required to store the whole vocabulary.

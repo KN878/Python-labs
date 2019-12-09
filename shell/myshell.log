@@ -1,0 +1,14 @@
+[2019-08-28 15:17:09,896] cmd:dir, args: [], stdout: 14, pid: 11200, exit: 0]
+[2019-08-28 15:17:45,652] cmd:ls, args: [], stdout: 0, pid: 5348, exit: 1
+[2019-08-28 15:25:26,765] cmd:dir, args: [], stdout: 14, pid: 3052, exit: 0
+[2019-08-28 15:25:46,449] cmd:dir, args: ['../'], stdout: 0, pid: 7456, exit: 1
+[2019-08-28 15:25:50,287] cmd:dir, args: ['./'], stdout: 0, pid: 4144, exit: 1
+[2019-08-28 15:26:01,158] cmd:dir, args: ['shell'], stdout: 14, pid: 7080, exit: 0
+[2019-08-28 15:38:33,509] cmd:dir, args: [], stdout: 16, pid: 8652, exit: 0
+[2019-08-28 16:07:54,069] cmd:dir, args: [], stdout: 16, pid: 8668, exit: 0
+[2019-08-28 18:25:37,279] cmd:dir, args: ['dsfsdfsd'], stdout: 5, pid: 10028, exit: 1
+[2019-08-28 18:27:16,108] cmd:ls, args: [], stdout: 0, pid: 3820, exit: 1
+[2019-08-28 20:22:29,367] cmd:cd, args: ['../'], stdout: 0, exit: 0
+[2019-08-28 20:22:32,377] cmd:cd, args: ['shell'], stdout: 0, exit: 0
+[2019-08-28 20:22:51,596] cmd:cd, args: ['dfsd'], stdout: 0, exit: -1
+[2019-08-28 20:26:14,220] cmd:cd, args: ['../'], stdout: 0, exit: 0

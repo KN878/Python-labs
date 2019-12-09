@@ -1,0 +1,9 @@
+INSTRUCTION  |src1.py      |src2.py      |src3.py      
+LOAD_CONST   |5            |5            |5            
+STORE_NAME   |2            |2            |2            
+LOAD_NAME    |2            |2            |2            
+CALL_FUNCTION|2            |2            |2            
+IMPORT_NAME  |1            |1            |1            
+MAKE_FUNCTION|1            |1            |1            
+POP_TOP      |1            |1            |1            
+RETURN_VALUE |1            |1            |1            
